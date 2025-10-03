@@ -1,5 +1,3 @@
-Here's a professional README.md template for your Python course repository, suitable for GitHub and course page use:
-
 ***
 
 # Python Fast Entry: Programming for Everyone
