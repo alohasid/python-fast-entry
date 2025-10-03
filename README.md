@@ -1,5 +1,3 @@
-***
-
 # Python Fast Entry: Programming for Everyone
 
 Learn Python from scratch and build practical skills step-by-step in this beginner-friendly video course.
