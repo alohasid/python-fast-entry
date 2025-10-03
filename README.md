@@ -49,7 +49,7 @@ To run sample code:
 1. Install Python 3.x from [python.org](https://www.python.org/)
 2. Clone this repository
    ```bash
-   git clone https://github.com/alohasid/python-fast-entry/
+   git clone https://github.com/alohasid/python-fast-entry.git
    ```
 3. Run examples:
    ```bash
